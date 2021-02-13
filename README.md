@@ -1,4 +1,5 @@
-<h1>Minecraft clients that i used/am using.</h1>
+<h1>Minecraft clients that i used/am using.</h1><br>
+//added remove fireworks mod
 <br>
 
 To use konas:<br>
